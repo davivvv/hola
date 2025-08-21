@@ -1,1 +1,1 @@
-web: gunicorn drfsimplecrud.wsgi:application
+web: gunicorn project1.drfsimplecrud.wsgi:application
